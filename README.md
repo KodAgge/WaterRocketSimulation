@@ -15,10 +15,6 @@ _equation system 2_
 ## Results
 The maximum height achieved was 73.3999 meters when the bottlenecks cross-sectional area was 1/3.594 of the bottle's body and the bottle was filled with 25.45% water.
 
-![Results2D](/images/TvåTillHundra.PNG)
+![Results](/images/OptimalResults.png)
 
-_heatmap of maximal height given cross-sectional area (alpha) and degree of filling (fyllnadsgrad)_
-
-![Results3D](/images/TvåTillHundraRoterad.PNG)
-
-_3D-graph of maximal height given cross-sectional area (alpha) and degree of filling (fyllnadsgrad)_
+_heatmap and 3D-graph of maximal height given cross-sectional area relationship (alpha) and degree of filling (fyllnadsgrad)_
