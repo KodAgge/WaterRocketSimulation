@@ -5,6 +5,8 @@
 This repository contains code for simulating the flight and maximal height of a water rocket described by the following equation systems:
 
 ![Equation system 1](/images/Eq1.png)
+
+
 ![Equation system 2](/images/Eq2.png)
 
 ## Results
